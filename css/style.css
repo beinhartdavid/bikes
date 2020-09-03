@@ -17,11 +17,12 @@
     font-size: 25px;
     color: #818181;
     display: block;
+    
   }
   
   /* When you mouse over the navigation links, change their color */
   .sidenav a:hover {
-    color: #f1f1f1;
+    color: #b2ffff;
   }
   
   /* Style page content */
@@ -42,5 +43,24 @@
   }
 
   body {
-      background-color: aqua;
+      background-color:whitesmoke;
+  }
+
+  .bike{
+      width: auto;
+background-color: brown;
+margin-left: 170px; /* Same as the width of the sidebar */
+    padding: 0px 10px;
+    font-size: xx-large;
+    text-align: center;
+  }
+
+  img{
+      width: 400px;
+  }
+
+  .col{
+      color: tomato;
+      background-color: teal;
+      margin-left:100px;
   }
